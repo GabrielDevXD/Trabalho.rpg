@@ -407,6 +407,7 @@ atividade: while (true) {
 }
 console.log();
 console.log('Algum tempo se passou e ja esta de noite');
+console.log('Você deseja ir dormir?');
 tempo.HORAS = tempo.HORAS + 8;
 console.log(tempo);
 perguntasimounaodormir();
